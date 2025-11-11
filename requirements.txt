@@ -1,0 +1,5 @@
+streamlit
+streamlit-js-eval
+numpy
+pandas
+matplotlib
