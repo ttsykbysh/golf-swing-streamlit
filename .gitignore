@@ -1,1 +1,37 @@
+# ---- Python キャッシュ系 ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- 仮想環境 ----
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ---- OS ファイル ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE / エディタ ----
+.vscode/
+.idea/
+
+# ---- Jupyter / Streamlit ----
+.ipynb_checkpoints/
+.streamlit/
+
+# ---- ログ / 一時ファイル ----
+*.log
+*.tmp
+*.bak
+*.swp
+*~ 
+
+# ---- その他 ----
+# 不要なデータや大きなCSVなどをアップロードしたくない場合
+data/
 
